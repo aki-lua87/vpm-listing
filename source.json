@@ -1,14 +1,14 @@
 {
   "name": "aki_lua87 VPM Repository",
-  "id": "net.akakitune87.vpm",
-  "url": "https://aki-lua87.github.io/vpm/index.json",
+  "id": "net.akakitune87.vpm-listing",
+  "url": "https://aki-lua87.github.io/vpm-listing/index.json",
   "author": {
     "name": "aki_lua87",
     "url": "https://github.com/aki-lua87"
   },
   "description": "VPM packages for VRChat tools by aki_lua87",
   "infoLink": {
-    "url": "https://github.com/aki-lua87/vpm",
+    "url": "https://github.com/aki-lua87/vpm-listing",
     "text": "View on GitHub"
   },
   "githubRepos": [
