@@ -1,28 +1,18 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+  "name": "aki_lua87 VPM Repository",
+  "id": "net.akakitune87.vpm",
+  "url": "https://aki-lua87.github.io/vpm/index.json",
+  "author": {
+    "name": "aki_lua87",
+    "url": "https://github.com/aki-lua87"
+  },
+  "description": "VPM packages for VRChat tools by aki_lua87",
+  "infoLink": {
+    "url": "https://github.com/aki-lua87/vpm",
+    "text": "View on GitHub"
+  },
+  "githubRepos": [
+    "aki-lua87/vrc-vpm-toolkit",
+    "aki-lua87/vrc-avatar-ndmf-toolkit"
+  ]
 }
